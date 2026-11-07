@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Orchestrator AI Workspace",
+  "description": "Enterprise-grade autonomous agentic pipeline with self-implementation mode, skills RAG database, multi-language live preview, and orchestrator agent mesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
